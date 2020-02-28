@@ -1,0 +1,17 @@
+{
+  "name": "capitulo-5",
+  "version": "1.0.0",
+  "description": "Exemplo do capiturlo 05",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "nodemon": "nodemon app.js"
+  },
+  "keywords": [
+    "livro",
+    "node"
+  ],
+  "author": "Ricardo R Lecheta",
+  "license": "ISC"
+}
